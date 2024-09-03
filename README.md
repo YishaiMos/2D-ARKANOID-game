@@ -13,7 +13,8 @@ Failing a level would end the game.
 1. Open the consule and type: "ant -d compile".
 2. Type: "ant run"
 
-  ![צילום מסך 2024-09-02 135626](https://github.com/user-attachments/assets/4aaf7b19-e054-4a17-ac11-1e9a18275a62)
+  ![צילום מסך 2024-09-02 135626](https://github.com/user-attachments/assets/3eaa523e-74ad-4988-973b-a2794d44522f)
+
 
 
   
